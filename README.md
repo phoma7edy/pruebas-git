@@ -3,12 +3,12 @@
 
 desarrollo de una web site para una pagina de venta de ropa para la visuaizacion del cliente sin necesidad de registrarse
 
-
-
+## agregamos nuevo terto para las pruebas de git merge con CONFLICTOS agregando autos
 
 ## Autores
 
 - [@pomaEduardo](https://www.github.com/octokatherine)
+- [@Simon](https://www.github.com/octokatherine) en MAIN
 
 
 ## instalacion
