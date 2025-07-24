@@ -16,10 +16,7 @@ desarrollo de una web site para una pagina de venta de ropa para la visuaizacion
 para la instalacion de la pagina  solamente requires descargar o clonar de nuestro repositorio, para tener todo el proyecto.
 Install my-project with npm
 
-```bash
-  npm install my-project
-  cd my-project
-```
+
     
 ## License
 
