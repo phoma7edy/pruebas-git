@@ -16,7 +16,7 @@ desarrollo de una web site para una pagina de venta de ropa para la visuaizacion
 para la instalacion de la pagina  solamente requires descargar o clonar de nuestro repositorio, para tener todo el proyecto.
 Install my-project with npm
 
-
+agregamos nuevo terto para las pruebas de git merge con CONFLICTOS
     
 ## License
 
