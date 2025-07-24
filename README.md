@@ -8,7 +8,7 @@ desarrollo de una web site para una pagina de venta de ropa para la visuaizacion
 ## Autores
 
 - [@pomaEduardo](https://www.github.com/octokatherine)
-- [@Simon](https://www.github.com/octokatherine)
+- [@Carlos](https://www.github.com/octokatherine)
 
 
 ## instalacion
