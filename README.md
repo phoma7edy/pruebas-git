@@ -5,7 +5,7 @@ desarrollo de una web site para una pagina de venta de ropa para la visuaizacion
 
 
 
-## agregamos nuevo terto para las pruebas de git merge con CONFLICTOS agregando autos
+## CAMBIOS EN LA RAMA EXPERIMENTAL
 
 
 ## Autores
