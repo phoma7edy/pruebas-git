@@ -4,8 +4,7 @@
 desarrollo de una web site para una pagina de venta de ropa para la visuaizacion del cliente sin necesidad de registrarse
 
 
-
-## AGRWGAMOS NUEVOS CAMBIOS EN MAIN PARA EL CONFLICTO DE GIT
+## AGREGAMOS NUEVOS CAMBIOS EN MAIN PARA EL CONFLICTO DE GIT - SOLUCIONADO
 
 
 ## Autores
