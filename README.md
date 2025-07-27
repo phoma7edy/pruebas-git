@@ -6,6 +6,7 @@ desarrollo de una web site para una pagina de venta de ropa para la visuaizacion
 
 ## AGREGAMOS NUEVOS CAMBIOS EN MAIN PARA EL CONFLICTO DE GIT - SOLUCIONADO
 
+APRENDIENDO GIT STASH
 
 ## Autores
 
