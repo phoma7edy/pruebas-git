@@ -4,7 +4,11 @@
 desarrollo de una web site para una pagina de venta de ropa para la visuaizacion del cliente sin necesidad de registrarse
 
 
+
 ## PRUEBAS CON GIT DIFF
+
+## commits de pruevas de git diff
+
 
 ## Autores
 
