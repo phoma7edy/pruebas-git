@@ -4,7 +4,10 @@
 desarrollo de una web site para una pagina de venta de ropa para la visuaizacion del cliente sin necesidad de registrarse
 
 
-## AGREGAMOS NUEVOS CAMBIOS EN MAIN PARA EL CONFLICTO DE GIT - SOLUCIONADO
+
+## PRUEBAS CON GIT DIFF
+
+## commits de pruevas de git diff
 
 APRENDIENDO GIT STASH
 
