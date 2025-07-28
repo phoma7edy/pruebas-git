@@ -4,8 +4,8 @@
 desarrollo de una web site para una pagina de venta de ropa para la visuaizacion del cliente sin necesidad de registrarse
 
 
-
-APRENDIENDO GIT STASH
+## APRENDIENDO GIT STASH
+haciendo practica
 
 ## Autores
 
