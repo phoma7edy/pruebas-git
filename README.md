@@ -5,10 +5,6 @@ desarrollo de una web site para una pagina de venta de ropa para la visuaizacion
 
 
 
-## PRUEBAS CON GIT DIFF
-
-## commits de pruevas de git diff
-
 APRENDIENDO GIT STASH
 
 ## Autores
